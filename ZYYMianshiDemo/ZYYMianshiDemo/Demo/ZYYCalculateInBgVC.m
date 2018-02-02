@@ -18,7 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    NSLog(@"Feb Feb");
     self.title = @"复杂计算在后台线程";
     
     UIView *view = [UIView new];
